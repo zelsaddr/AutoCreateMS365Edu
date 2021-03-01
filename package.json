@@ -1,0 +1,17 @@
+{
+  "name": "microsoft-edu-creator",
+  "version": "1.0.0",
+  "description": "create microsoft edu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zelsaddr",
+  "license": "ISC",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "fs": "0.0.1-security",
+    "puppeteer": "^7.1.0",
+    "random-name": "^0.1.2"
+  }
+}
