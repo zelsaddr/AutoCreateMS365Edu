@@ -31,10 +31,6 @@
 
 Create Account Office 365 Automate and free
 
-## 🎥 Demo / Working <a name = "demo"></a>
-
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
-
 ## 💭 How it works <a name = "working"></a>
 
 Bot will automatically create user and result will be in a file "resultSuccess.txt"
