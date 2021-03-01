@@ -30,7 +30,7 @@
 ## Benefit <a name = "benefit"></a>
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.ibb.co/wQLJtbq/image.png" alt="Benefit"></a>
+ <img width=270px height=350px src="https://i.ibb.co/wQLJtbq/image.png" alt="Benefit"></a>
 </p>
 ## 🧐 About <a name = "about"></a>
 
