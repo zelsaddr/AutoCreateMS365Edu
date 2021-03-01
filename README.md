@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
 </p>
 
-<h3 align="center">Microsoft Office 365 Edu Plan Creator</h3>
+<h3 align="center">Microsoft Office Edu Plan Creator</h3>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> 🤖 Create MS Office 365 Account Freely
+<p align="center"> 🤖 Create MS Office Account Freely
     <br> 
 </p>
 
