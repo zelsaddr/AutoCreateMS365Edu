@@ -92,8 +92,7 @@ node index.js
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
-- [Heroku](https://www.heroku.com/) - SaaS hosting platform
+- [Node JS](https://nodejs.com)
 
 ## ✍️ Authors <a name = "authors"></a>
 
