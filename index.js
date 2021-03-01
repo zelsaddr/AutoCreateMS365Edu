@@ -21,7 +21,7 @@ function delay(time) {
     const microsoftPage = await browser.newPage();
     await microsoftPage.goto("https://products.office.com/es-Es/student?tab=students", {waitUntil: "networkidle2"});
     const tempMailPage = await browser.newPage();
-    await tempMailPage.goto("https://od.obagg.com");
+    await tempMailPage.goto("https://od.obagg.com", {waitUntil: "networkidle2"});
     console.log("[+] Getting Email...");
     try {
         await tempMailPage.click("body > div.ui.fixed.borderless.menu > div > div.ui.item.mailaddress > div > i");
