@@ -14,6 +14,7 @@ function delay(time) {
  }
 
 (async () => {
+    console.log("[+] Starting program...")
     const browser = await puppeteer.launch({
         headless: true,
         devtools: false
